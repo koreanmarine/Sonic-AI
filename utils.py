@@ -16,7 +16,6 @@ def transcribe_file(filepath):
     except Exception as e:
         print(f"Error processing file {filepath}: {e}")
         return None
-
 def is_emergency(text):
     # openai API를 사용하여 텍스트 분류
     response = openai.ChatCompletion.create(
