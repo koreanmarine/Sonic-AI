@@ -15,6 +15,7 @@
 - 따라서 본 모델의 텍스트 변환 기능은 관할 기관이 신속하고 정확하게 상황을 판단할 수 있도록 도와줍니다.
 
 
+
 ## 데이터 설명
 ### 테스트용 데이터 
 - https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=170)
