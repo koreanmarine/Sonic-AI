@@ -8,7 +8,7 @@
 - 이 모델은 오디오 데이터를 분석하여 위급상황인지 아닌지를 판단하며, 판단된 상황을 텍스트로 변환하여 관할 경찰서나 지자체에 신속하게 보고합니다.
 
 ### 실제 모델 동작 순서
-<img src = "https://github.com/koreanmarine/Sonic-AI/assets/130243045/93647c87-70b2-4a80-83bd-001e61f2a6ec" width="200" height="400"/>
+<img src = "https://github.com/koreanmarine/Sonic-AI/assets/130243045/93647c87-70b2-4a80-83bd-001e61f2a6ec" width="800" height="300"/>
 
 
 ### CCTV와 오디오 모니터링의 차이점
