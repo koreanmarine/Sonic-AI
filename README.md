@@ -1,6 +1,6 @@
-# Sonic-AI(https://youtu.be/aQLeNKv2zY4?si=27dYpKenbIgqY_LF)
+# Sonic-AI(Real-Time Emergency Textualization)
 ### STT 모델과 LLM 모델을 결합한  Sonic - AI
-- AI 기반의 사운드를 통한 실시간 위급상황 감지 및 분석 & 텍스트 보고
+- AI 기반의 사운드를 통한 실시간 위급상황 감지 및 분석 & 텍스트 보고()
   
 ### 프로젝트 개요
 - 본 프로젝트는 인공지능(AI)을 활용하여 위급상황 발생 시 신속하게 그 상황을 감지하고 분석하는 모델을 개발하는 것을 목표로 하고 있습니다.
