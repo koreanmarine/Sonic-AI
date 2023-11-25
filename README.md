@@ -18,7 +18,7 @@
 ### 모델 구조
 <img src = "https://github.com/koreanmarine/Sonic-AI/assets/130243045/dbc92e5c-23d3-449b-8236-597b3fbcb242" width="800" height="400"/>
 
-- Voice => <Whishper> => Text => <Chat GPT> => judgement
+- Voice => <Whishper> => Text => <Chat-GPT> => judgement
 
 
 ### CCTV와 오디오 모니터링의 차이점
