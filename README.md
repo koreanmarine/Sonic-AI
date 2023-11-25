@@ -17,3 +17,6 @@
 ### 테스트용 데이터 
 - https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=170)
 ![image](https://github.com/koreanmarine/Sonic-AI/assets/130243045/417d2a87-0831-4919-b5d9-0d9f9da81275)
+
+## 성능 확인 데이터
+- 성능확인 데이터는 직접 위험 상황 녹음 및 영화와 드라마에서 위험 상황을 추출하여 사용했습니다.
