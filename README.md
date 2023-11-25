@@ -15,6 +15,11 @@
 - (3) 범죄로 판단되면 경찰서나 관공서에 신고 접수 및 출동 명령 그리고 범죄현장 오디오에 대한 Text파일 전달
 - (4) 범죄현장출동
 
+### 모델 구조
+<img src = "https://github.com/koreanmarine/Sonic-AI/assets/130243045/dbc92e5c-23d3-449b-8236-597b3fbcb242" width="800" height="400"/>
+
+- Voice => <Whishper> => Text => <Chat GPT> => judgement
+
 
 ### CCTV와 오디오 모니터링의 차이점
 - CCTV 모니터링 시스템은 물리적인 사각지대와 외부 요인에 의해 성능이 제한될 수 있습니다.
