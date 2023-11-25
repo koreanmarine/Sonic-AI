@@ -14,6 +14,8 @@
 - 음성 또는 영상 데이터는 상황을 정확하게 파악하기 위해 전체를 철저히 검토해야 하지만, 텍스트 데이터는 이를 훨씬 더 빠르고 간편하게 할 수 있습니다.
 - 따라서 본 모델의 텍스트 변환 기능은 관할 기관이 신속하고 정확하게 상황을 판단할 수 있도록 도와줍니다.
 
+## 데이터 설명
+
 ### 테스트용 데이터 
 - https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=170)
 ![image](https://github.com/koreanmarine/Sonic-AI/assets/130243045/417d2a87-0831-4919-b5d9-0d9f9da81275)
